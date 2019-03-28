@@ -24,7 +24,6 @@ Created on Tue Mar  5 10:39:46 2019
 输入: [1,1,1,3,3,4,3,2,4,2]
 输出: true
 
-
 """
 class Solution:
     def fourSum(self, nums, target):
